@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83420419229",
+    "project_id": "movie-bot-ubqhol",
+    "storage_bucket": "movie-bot-ubqhol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83420419229:android:6722debd93c170739b7074",
+        "android_client_info": {
+          "package_name": "com.mycompany.moviebot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHwms_WWjsl3mdxlIJwWVHT0sZGDj--w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

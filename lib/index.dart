@@ -1,0 +1,31 @@
+// Export pages
+export '/pages/authentication/signin_page/signin_page_widget.dart'
+    show SigninPageWidget;
+export '/pages/authentication/signup_page/signup_page_widget.dart'
+    show SignupPageWidget;
+export '/pages/movie_tv_shows_details/home_page/home_page_widget.dart'
+    show HomePageWidget;
+export '/pages/authentication/onboarding_page/onboarding_page_widget.dart'
+    show OnboardingPageWidget;
+export '/pages/movie_tv_shows_details/movie_details_page/movie_details_page_widget.dart'
+    show MovieDetailsPageWidget;
+export '/pages/movie_tv_shows_details/tv_shows_details_page/tv_shows_details_page_widget.dart'
+    show TvShowsDetailsPageWidget;
+export '/pages/search_a_i/search_page/search_page_widget.dart'
+    show SearchPageWidget;
+export '/pages/authentication/profile_page/profile_page_widget.dart'
+    show ProfilePageWidget;
+export '/pages/authentication/forgot_pass_page/forgot_pass_page_widget.dart'
+    show ForgotPassPageWidget;
+export '/pages/authentication/check_email_page/check_email_page_widget.dart'
+    show CheckEmailPageWidget;
+export '/pages/authentication/profile_completion_page/profile_completion_page_widget.dart'
+    show ProfileCompletionPageWidget;
+export '/pages/favorites/favorite_movie_page/favorite_movie_page_widget.dart'
+    show FavoriteMoviePageWidget;
+export '/pages/authentication/update_profile_page/update_profile_page_widget.dart'
+    show UpdateProfilePageWidget;
+export '/pages/search_a_i/a_i_bot_page/a_i_bot_page_widget.dart'
+    show AIBotPageWidget;
+export '/pages/favorites/favorite_tvshows_page/favorite_tvshows_page_widget.dart'
+    show FavoriteTvshowsPageWidget;
